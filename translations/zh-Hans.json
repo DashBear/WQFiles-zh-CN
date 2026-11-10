@@ -1,0 +1,2407 @@
+[
+  {
+    "index": 18,
+    "source": "Cannot list this folder",
+    "translation": "无法列出此文件夹"
+  },
+  {
+    "index": 19,
+    "source": "Source and destination are the same file",
+    "translation": "源文件与目标文件相同"
+  },
+  {
+    "index": 20,
+    "source": "The source changed while it was being copied",
+    "translation": "复制时源文件已改变"
+  },
+  {
+    "index": 21,
+    "source": "Backup storage cannot be modified through the file browser.",
+    "translation": "无法通过文件浏览器修改备份存储。"
+  },
+  {
+    "index": 22,
+    "source": "Invalid file path",
+    "translation": "文件路径无效"
+  },
+  {
+    "index": 23,
+    "source": "Cannot inspect the copy source",
+    "translation": "无法检查复制源"
+  },
+  {
+    "index": 26,
+    "source": "Invalid copy path",
+    "translation": "复制路径无效"
+  },
+  {
+    "index": 28,
+    "source": "The source changed while it was copied",
+    "translation": "复制时源文件已改变"
+  },
+  {
+    "index": 29,
+    "source": "Destination is not a regular file",
+    "translation": "目标不是普通文件"
+  },
+  {
+    "index": 32,
+    "source": "This file belongs to %@ (mode %o) and only its owner may %@ it. WQ Files reaches the folder, but runs as mobile (uid %d), so no app can %@ this file.",
+    "translation": "此文件属于 %@（权限 %o），只有所有者才能%@。WQ Files 虽能访问文件夹，但以 mobile（uid %d）运行，因此无法%@此文件。"
+  },
+  {
+    "index": 33,
+    "source": "change",
+    "translation": "修改"
+  },
+  {
+    "index": 34,
+    "source": "read",
+    "translation": "读取"
+  },
+  {
+    "index": 35,
+    "source": "open",
+    "translation": "打开"
+  },
+  {
+    "index": 37,
+    "source": "Only a complete backup unit can be deleted here.",
+    "translation": "此处只能删除完整备份。"
+  },
+  {
+    "index": 38,
+    "source": "Could not remove everything inside the backup.",
+    "translation": "无法删除备份中的全部内容。"
+  },
+  {
+    "index": 41,
+    "source": "Invalid folder path",
+    "translation": "文件夹路径无效"
+  },
+  {
+    "index": 43,
+    "source": "Backup storage cannot be overwritten or deleted through the file browser.",
+    "translation": "无法通过文件浏览器覆盖或删除备份存储。"
+  },
+  {
+    "index": 44,
+    "source": "Not found",
+    "translation": "未找到"
+  },
+  {
+    "index": 46,
+    "source": "Only empty folders can be deleted",
+    "translation": "只能删除空文件夹"
+  },
+  {
+    "index": 49,
+    "source": "Invalid name",
+    "translation": "名称无效"
+  },
+  {
+    "index": 50,
+    "source": "Backup storage cannot be renamed through the file browser.",
+    "translation": "无法通过文件浏览器重命名备份存储。"
+  },
+  {
+    "index": 52,
+    "source": "An item with that name already exists",
+    "translation": "已存在同名项目"
+  },
+  {
+    "index": 61,
+    "source": "unknown error",
+    "translation": "未知错误"
+  },
+  {
+    "index": 63,
+    "source": "Source and destination trees overlap or have invalid paths",
+    "translation": "源目录和目标目录重叠或路径无效"
+  },
+  {
+    "index": 64,
+    "source": "Cannot safely open distinct source and destination folders",
+    "translation": "无法安全打开独立的源文件夹与目标文件夹"
+  },
+  {
+    "index": 65,
+    "source": "Cannot read the source folder",
+    "translation": "无法读取源文件夹"
+  },
+  {
+    "index": 66,
+    "source": "A copy root changed during copying",
+    "translation": "复制时根目录已改变"
+  },
+  {
+    "index": 99,
+    "source": "The file changed after it was opened. Your edits were not written; reopen it and compare the changes.",
+    "translation": "文件打开后已改变。未写入编辑内容；请重新打开并比较更改。"
+  },
+  {
+    "index": 100,
+    "source": "Backup of the current file failed, nothing was written: %@",
+    "translation": "当前文件备份失败，未写入任何内容：%@"
+  },
+  {
+    "index": 102,
+    "source": "The path is invalid or belongs to backup storage.",
+    "translation": "路径无效或属于备份存储。"
+  },
+  {
+    "index": 105,
+    "source": "Cannot allocate a backup name.",
+    "translation": "无法分配备份名称。"
+  },
+  {
+    "index": 108,
+    "source": "Not enough free space for a full backup copy",
+    "translation": "可用空间不足，无法完整备份"
+  },
+  {
+    "index": 112,
+    "source": "Backup copy failed.",
+    "translation": "备份复制失败。"
+  },
+  {
+    "index": 113,
+    "source": "Out of memory",
+    "translation": "内存不足"
+  },
+  {
+    "index": 114,
+    "source": "The target path was replaced during writing",
+    "translation": "写入时目标路径已被替换"
+  },
+  {
+    "index": 115,
+    "source": "Saved contents could not be verified; possible concurrent modification",
+    "translation": "无法验证保存内容，可能存在并发修改"
+  },
+  {
+    "index": 116,
+    "source": "%@; %@. Backup: %@",
+    "translation": "%@；%@。备份：%@"
+  },
+  {
+    "index": 117,
+    "source": "Write failed",
+    "translation": "写入失败"
+  },
+  {
+    "index": 118,
+    "source": "the original descriptor contents were restored",
+    "translation": "已恢复原文件描述符的内容"
+  },
+  {
+    "index": 119,
+    "source": "rollback failed: ",
+    "translation": "回滚失败："
+  },
+  {
+    "index": 120,
+    "source": "no rollback was attempted to avoid overwriting concurrent changes",
+    "translation": "为避免覆盖并发更改，未尝试回滚"
+  },
+  {
+    "index": 121,
+    "source": "Close failed: %@. Backup: %@",
+    "translation": "关闭失败：%@。备份：%@"
+  },
+  {
+    "index": 122,
+    "source": "A change lies past the end of the file",
+    "translation": "更改超出了文件末尾"
+  },
+  {
+    "index": 623,
+    "source": "Share in progress",
+    "translation": "正在分享"
+  },
+  {
+    "index": 624,
+    "source": "Wait for the current share to finish before starting another.",
+    "translation": "请等待当前分享完成后再开始。"
+  },
+  {
+    "index": 625,
+    "source": "Only regular files can be shared.",
+    "translation": "只能分享普通文件。"
+  },
+  {
+    "index": 626,
+    "source": "Cannot share",
+    "translation": "无法分享"
+  },
+  {
+    "index": 627,
+    "source": "Could not create a temporary export folder",
+    "translation": "无法创建临时导出文件夹"
+  },
+  {
+    "index": 628,
+    "source": "Preparing…",
+    "translation": "正在准备…"
+  },
+  {
+    "index": 629,
+    "source": "Compressing the folder",
+    "translation": "正在压缩文件夹"
+  },
+  {
+    "index": 630,
+    "source": "Cancel",
+    "translation": "取消"
+  },
+  {
+    "index": 633,
+    "source": "Could not create the ZIP",
+    "translation": "无法创建 ZIP"
+  },
+  {
+    "index": 637,
+    "source": "%@ backups",
+    "translation": "%@ 的备份"
+  },
+  {
+    "index": 640,
+    "source": "Before restore",
+    "translation": "恢复前"
+  },
+  {
+    "index": 641,
+    "source": "Apps",
+    "translation": "应用"
+  },
+  {
+    "index": 642,
+    "source": "Search apps",
+    "translation": "搜索应用"
+  },
+  {
+    "index": 643,
+    "source": "Finding apps…",
+    "translation": "正在查找应用…"
+  },
+  {
+    "index": 644,
+    "source": "finding app containers",
+    "translation": "正在查找应用容器"
+  },
+  {
+    "index": 645,
+    "source": "Finding apps… %lld%%",
+    "translation": "正在查找应用… %lld%%"
+  },
+  {
+    "index": 646,
+    "source": "Reading app names…",
+    "translation": "正在读取应用名称…"
+  },
+  {
+    "index": 647,
+    "source": "reading app names",
+    "translation": "正在读取应用名称"
+  },
+  {
+    "index": 649,
+    "source": "loaded",
+    "translation": "已加载"
+  },
+  {
+    "index": 650,
+    "source": "not loaded",
+    "translation": "未加载"
+  },
+  {
+    "index": 654,
+    "source": "Measuring %lu/%lu…",
+    "translation": "正在测量 %lu/%lu…"
+  },
+  {
+    "index": 655,
+    "source": "getting access to %@ (%lu/%lu)",
+    "translation": "正在获取 %@ 的访问权限（%lu/%lu）"
+  },
+  {
+    "index": 656,
+    "source": "unknown app",
+    "translation": "未知应用"
+  },
+  {
+    "index": 657,
+    "source": "reading the identifier of %@",
+    "translation": "正在读取 %@ 的标识符"
+  },
+  {
+    "index": 659,
+    "source": "Unknown container (%@)",
+    "translation": "未知容器（%@）"
+  },
+  {
+    "index": 660,
+    "source": "measuring %@ (%@)",
+    "translation": "正在测量 %@（%@）"
+  },
+  {
+    "index": 661,
+    "source": "no identifier",
+    "translation": "无标识符"
+  },
+  {
+    "index": 664,
+    "source": "Container enumeration failed. See Log for the statfs/inode reason.",
+    "translation": "容器枚举失败。请查看日志中的 statfs/inode 原因。"
+  },
+  {
+    "index": 665,
+    "source": "No app containers were found. Refresh, and check Log for the enumeration reason.",
+    "translation": "未找到应用容器。请刷新并查看日志中的原因。"
+  },
+  {
+    "index": 666,
+    "source": "%lu containers · %lu with limited access, identity, size, or no identifier. See Log.",
+    "translation": "%lu 个容器 · %lu 个存在访问、身份、大小限制或缺少标识符。请查看日志。"
+  },
+  {
+    "index": 667,
+    "source": "%lu of %lu apps",
+    "translation": "%lu / %lu 个应用"
+  },
+  {
+    "index": 668,
+    "source": "%lu apps · %@ of app data",
+    "translation": "%lu 个应用 · 应用数据 %@"
+  },
+  {
+    "index": 669,
+    "source": "Tap an app to back up, restore or clear its Documents and Library. Close the app first (swipe it away in the app switcher); operations are not snapshot-consistent while it runs. Backups are stored in WQFiles/AppBackups and are visible in the Files app. tmp is cleared when requested but is not backed up or restored.",
+    "translation": "点按应用可备份、恢复或清空 Documents 和 Library。请先在应用切换器中上划关闭应用；运行中的数据无法保证快照一致性。备份保存在 WQFiles/AppBackups，也可在“文件”中查看。清空时会删除 tmp，但不会备份或恢复 tmp。"
+  },
+  {
+    "index": 671,
+    "source": "Scanning…",
+    "translation": "正在扫描…"
+  },
+  {
+    "index": 672,
+    "source": "Access unavailable · %@",
+    "translation": "无法访问 · %@"
+  },
+  {
+    "index": 673,
+    "source": "%@ · %@ · no identifier",
+    "translation": "%@ · %@ · 无标识符"
+  },
+  {
+    "index": 674,
+    "source": "%@ · %@ · container identity unavailable",
+    "translation": "%@ · %@ · 容器身份不可用"
+  },
+  {
+    "index": 675,
+    "source": "size unavailable · %@%@",
+    "translation": "大小不可用 · %@%@"
+  },
+  {
+    "index": 676,
+    "source": " · backed up",
+    "translation": " · 已备份"
+  },
+  {
+    "index": 679,
+    "source": "The container identity is unavailable or changed. Backup, restore and clear are disabled for this entry.",
+    "translation": "容器身份不可用或已改变。此项目的备份、恢复和清空功能已禁用。"
+  },
+  {
+    "index": 680,
+    "source": "The container identifier is unavailable. Backup, restore and clear are disabled for this entry.",
+    "translation": "无法获取容器标识符。此项目的备份、恢复和清空功能已禁用。"
+  },
+  {
+    "index": 681,
+    "source": "Sandbox access is unavailable. Check the App Group and see Log; only the container path can be copied.",
+    "translation": "无法访问沙盒。请检查应用组并查看日志；目前只能复制容器路径。"
+  },
+  {
+    "index": 683,
+    "source": "Open Data Folder",
+    "translation": "打开数据文件夹"
+  },
+  {
+    "index": 684,
+    "source": "Copy Container Path",
+    "translation": "复制容器路径"
+  },
+  {
+    "index": 686,
+    "source": "%@ of data",
+    "translation": "数据量 %@"
+  },
+  {
+    "index": 687,
+    "source": "size unavailable",
+    "translation": "大小不可用"
+  },
+  {
+    "index": 688,
+    "source": "Back Up Data",
+    "translation": "备份数据"
+  },
+  {
+    "index": 690,
+    "source": "Restore Backup (%@)",
+    "translation": "恢复备份（%@）"
+  },
+  {
+    "index": 691,
+    "source": "Restore a Backup… (%lu)",
+    "translation": "选择备份恢复…（%lu）"
+  },
+  {
+    "index": 692,
+    "source": "Share Latest Backup (AirDrop…)",
+    "translation": "分享最新备份（隔空投送…）"
+  },
+  {
+    "index": 693,
+    "source": "Clear Data…",
+    "translation": "清空数据…"
+  },
+  {
+    "index": 694,
+    "source": "Backing up %@…",
+    "translation": "正在备份 %@…"
+  },
+  {
+    "index": 695,
+    "source": "Backed up",
+    "translation": "已备份"
+  },
+  {
+    "index": 696,
+    "source": "Backup failed",
+    "translation": "备份失败"
+  },
+  {
+    "index": 697,
+    "source": "Saved to AppBackups/%@/%@",
+    "translation": "已保存至 AppBackups/%@/%@"
+  },
+  {
+    "index": 698,
+    "source": "Nothing was saved: %@",
+    "translation": "未保存任何内容：%@"
+  },
+  {
+    "index": 699,
+    "source": "see Log",
+    "translation": "查看日志"
+  },
+  {
+    "index": 700,
+    "source": "Clearing %@…",
+    "translation": "正在清空 %@…"
+  },
+  {
+    "index": 702,
+    "source": "Data cleared",
+    "translation": "数据已清空"
+  },
+  {
+    "index": 703,
+    "source": "Partly cleared",
+    "translation": "部分已清空"
+  },
+  {
+    "index": 704,
+    "source": "Freed about %@.%@ Open %@ to start fresh.",
+    "translation": "约释放 %@。%@ 打开 %@ 即可重新开始。"
+  },
+  {
+    "index": 705,
+    "source": " %@. Keep the app closed and try again.",
+    "translation": " %@。请保持应用关闭并重试。"
+  },
+  {
+    "index": 706,
+    "source": "Some items could not be removed (see Log)",
+    "translation": "部分项目无法删除（请查看日志）"
+  },
+  {
+    "index": 707,
+    "source": "Clear %@?",
+    "translation": "清空 %@？"
+  },
+  {
+    "index": 708,
+    "source": "Deletes everything in the app's Documents, Library and tmp, like a fresh install. The optional backup covers Documents and Library only; tmp is discarded and cannot be restored. Logins, settings and offline content are lost. Close the app first.",
+    "translation": "删除应用 Documents、Library 和 tmp 中的全部内容，如同重新安装。可选备份仅包含 Documents 和 Library；tmp 会被丢弃且无法恢复。登录信息、设置和离线内容将丢失。请先关闭应用。"
+  },
+  {
+    "index": 709,
+    "source": "Back Up, Then Clear",
+    "translation": "先备份再清空"
+  },
+  {
+    "index": 710,
+    "source": "Not cleared",
+    "translation": "未清空"
+  },
+  {
+    "index": 711,
+    "source": "The backup did not complete, so nothing was deleted.",
+    "translation": "备份未完成，因此未删除任何内容。"
+  },
+  {
+    "index": 712,
+    "source": "Clear Without Backup",
+    "translation": "不备份直接清空"
+  },
+  {
+    "index": 713,
+    "source": "Restore which backup?",
+    "translation": "恢复哪个备份？"
+  },
+  {
+    "index": 714,
+    "source": "verified",
+    "translation": "已验证"
+  },
+  {
+    "index": 715,
+    "source": "\n\nThis backup is unverified (%@). WQ Files will re-check its parts before changing anything.",
+    "translation": "\n\n此备份尚未验证（%@）。WQ Files 会在修改前重新检查其内容。"
+  },
+  {
+    "index": 718,
+    "source": "Restore %@?",
+    "translation": "恢复 %@？"
+  },
+  {
+    "index": 719,
+    "source": "Replaces the app's current Documents and Library with the backup from %@; tmp is left untouched. The current data is backed up first, and put back if anything fails. Close the app first: a running app can make the operation non-snapshot-consistent.%@",
+    "translation": "用 %@ 的备份替换应用当前的 Documents 和 Library，保留 tmp。会先备份当前数据，失败时自动还原。请先关闭应用，运行中的应用会影响快照一致性。%@"
+  },
+  {
+    "index": 720,
+    "source": "Restore",
+    "translation": "恢复"
+  },
+  {
+    "index": 721,
+    "source": "Restoring %@…",
+    "translation": "正在恢复 %@…"
+  },
+  {
+    "index": 727,
+    "source": "An interrupted restore was found with an unknown recovery state. The journal was retained for manual recovery.",
+    "translation": "发现中断的恢复操作，恢复状态未知。已保留日志以供手动恢复。"
+  },
+  {
+    "index": 735,
+    "source": "An interrupted restore was found, but its recovery journal is invalid. The journal was retained for manual recovery%@.",
+    "translation": "发现中断的恢复操作，但恢复日志无效。已保留日志以供手动恢复%@。"
+  },
+  {
+    "index": 738,
+    "source": "Automatic recovery of %@ failed: %@. The safety backup is %@; see Log.",
+    "translation": "自动恢复 %@ 失败：%@。安全备份位于 %@；请查看日志。"
+  },
+  {
+    "index": 740,
+    "source": "An interrupted restore of %@ was recovered, but its journal could not be committed (%@). It will be checked again at the next launch.",
+    "translation": "已恢复 %@ 的中断操作，但无法提交恢复日志（%@）。下次启动时将再次检查。"
+  },
+  {
+    "index": 742,
+    "source": "An interrupted restore of %@ was recovered. Its committed journal will be cleaned up at the next launch (%@).",
+    "translation": "已恢复 %@ 的中断操作。下次启动时将清理已提交的恢复日志（%@）。"
+  },
+  {
+    "index": 743,
+    "source": "cleanup failed",
+    "translation": "清理失败"
+  },
+  {
+    "index": 745,
+    "source": "An interrupted restore of %@ was recovered from its safety backup.",
+    "translation": "已从安全备份恢复 %@ 的中断操作。"
+  },
+  {
+    "index": 746,
+    "source": "Not restored",
+    "translation": "未恢复"
+  },
+  {
+    "index": 747,
+    "source": "The backup is not safe to restore (%@). Nothing was changed.",
+    "translation": "无法安全恢复此备份（%@）。未修改任何内容。"
+  },
+  {
+    "index": 749,
+    "source": "The legacy backup is empty. Nothing was changed.",
+    "translation": "旧版备份为空。未修改任何内容。"
+  },
+  {
+    "index": 750,
+    "source": "The selected app container is no longer safe to use (%@). Nothing was changed.",
+    "translation": "所选应用容器已无法安全使用（%@）。未修改任何内容。"
+  },
+  {
+    "index": 751,
+    "source": "The current data couldn't be backed up first (%@). Nothing was changed.",
+    "translation": "无法先备份当前数据（%@）。未修改任何内容。"
+  },
+  {
+    "index": 752,
+    "source": "%@. Nothing was changed; the safety backup was retained at %@ for manual recovery.",
+    "translation": "%@。未修改任何内容；安全备份保留在 %@，可手动恢复。"
+  },
+  {
+    "index": 753,
+    "source": "The recovery journal could not be written",
+    "translation": "无法写入恢复日志"
+  },
+  {
+    "index": 754,
+    "source": "The selected backup changed before restore",
+    "translation": "恢复前所选备份已改变"
+  },
+  {
+    "index": 755,
+    "source": "The selected backup changed during restore",
+    "translation": "恢复时所选备份已改变"
+  },
+  {
+    "index": 758,
+    "source": "Restored",
+    "translation": "已恢复"
+  },
+  {
+    "index": 759,
+    "source": " The recovery journal is committed and will be cleaned up at the next launch.",
+    "translation": " 恢复日志已提交，将在下次启动时清理。"
+  },
+  {
+    "index": 760,
+    "source": "Open %@ to use the restored Documents and Library. The data from before is kept as backup %@; tmp was not changed. Keep the app closed during this operation.%@",
+    "translation": "打开 %@ 即可使用恢复后的 Documents 和 Library。原数据保留为备份 %@；tmp 未改变。操作期间请保持应用关闭。%@"
+  },
+  {
+    "index": 761,
+    "source": "The restore finished, but its recovery journal could not be committed (%@)",
+    "translation": "恢复已完成，但无法提交恢复日志（%@）"
+  },
+  {
+    "index": 763,
+    "source": "kept for recovery at the next launch",
+    "translation": "已保留，等待下次启动恢复"
+  },
+  {
+    "index": 765,
+    "source": "cleared",
+    "translation": "已清除"
+  },
+  {
+    "index": 766,
+    "source": "Restore failed",
+    "translation": "恢复失败"
+  },
+  {
+    "index": 767,
+    "source": "%@. The previous data was put back.%@",
+    "translation": "%@。已还原之前的数据。%@"
+  },
+  {
+    "index": 768,
+    "source": "Some files couldn't be written",
+    "translation": "部分文件无法写入"
+  },
+  {
+    "index": 769,
+    "source": " Recovery will run again at the next launch because the journal could not be removed.",
+    "translation": " 无法删除恢复日志，下次启动时将再次恢复。"
+  },
+  {
+    "index": 770,
+    "source": "%@, and putting the previous data back also failed (%@). It is in backup %@; see the Log.%@",
+    "translation": "%@，且还原原数据也失败（%@）。原数据位于备份 %@；请查看日志。%@"
+  },
+  {
+    "index": 771,
+    "source": " Recovery will run again at the next launch.",
+    "translation": " 下次启动时将再次恢复。"
+  },
+  {
+    "index": 782,
+    "source": " (older, unverified)",
+    "translation": " （较旧，未验证）"
+  },
+  {
+    "index": 783,
+    "source": "The app identifier is not a valid bundle identifier",
+    "translation": "应用标识符不是有效的包标识符"
+  },
+  {
+    "index": 784,
+    "source": "Cannot locate the app backup folder",
+    "translation": "无法定位应用备份文件夹"
+  },
+  {
+    "index": 785,
+    "source": "Cannot create the backup folder",
+    "translation": "无法创建备份文件夹"
+  },
+  {
+    "index": 786,
+    "source": "Cannot access %@",
+    "translation": "无法访问 %@"
+  },
+  {
+    "index": 787,
+    "source": "Cannot hash the staged backup part",
+    "translation": "无法计算暂存备份部分的哈希值"
+  },
+  {
+    "index": 788,
+    "source": "<missing>",
+    "translation": "<缺失>"
+  },
+  {
+    "index": 789,
+    "source": "The app data changed while it was being backed up; no snapshot-consistent copy was made",
+    "translation": "备份时应用数据已改变，未生成快照一致的副本"
+  },
+  {
+    "index": 795,
+    "source": "Cannot write the backup manifest",
+    "translation": "无法写入备份清单"
+  },
+  {
+    "index": 796,
+    "source": "Cannot finish the backup (errno %d)",
+    "translation": "无法完成备份（errno %d）"
+  },
+  {
+    "index": 797,
+    "source": "The app container changed while the backup was being finalized",
+    "translation": "完成备份时应用容器已改变"
+  },
+  {
+    "index": 801,
+    "source": "Cannot inspect %@",
+    "translation": "无法检查 %@"
+  },
+  {
+    "index": 802,
+    "source": "%@ is not a directory",
+    "translation": "%@ 不是目录"
+  },
+  {
+    "index": 803,
+    "source": "Cannot read %@",
+    "translation": "无法读取 %@"
+  },
+  {
+    "index": 804,
+    "source": "Cannot encode %@",
+    "translation": "无法编码 %@"
+  },
+  {
+    "index": 805,
+    "source": "Cannot inspect link %@",
+    "translation": "无法检查链接 %@"
+  },
+  {
+    "index": 807,
+    "source": "The copied tree could not be verified (the source changed or the copy is incomplete)",
+    "translation": "无法验证复制的目录树（源已改变或复制不完整）"
+  },
+  {
+    "index": 808,
+    "source": "%@ changed while it was read",
+    "translation": "读取时 %@ 已改变"
+  },
+  {
+    "index": 809,
+    "source": "The app container no longer exists or is not a directory",
+    "translation": "应用容器不存在或不是目录"
+  },
+  {
+    "index": 810,
+    "source": "The app container was replaced after it was scanned",
+    "translation": "扫描后应用容器已被替换"
+  },
+  {
+    "index": 811,
+    "source": "The app container identity no longer matches the selected app",
+    "translation": "应用容器身份与所选应用不符"
+  },
+  {
+    "index": 813,
+    "source": "Some items remain in %@; keep the app closed and try again",
+    "translation": "%@ 中仍有部分项目；请关闭应用并重试"
+  },
+  {
+    "index": 815,
+    "source": "Cannot remove the restore recovery journal",
+    "translation": "无法删除恢复日志"
+  },
+  {
+    "index": 816,
+    "source": "The restore recovery journal is unreadable",
+    "translation": "无法读取恢复日志"
+  },
+  {
+    "index": 817,
+    "source": "Cannot create the restore recovery folder",
+    "translation": "无法创建恢复文件夹"
+  },
+  {
+    "index": 818,
+    "source": "Cannot write the restore recovery journal",
+    "translation": "无法写入恢复日志"
+  },
+  {
+    "index": 819,
+    "source": "The backup path is outside this app's backup folder",
+    "translation": "备份路径不在此应用的备份文件夹内"
+  },
+  {
+    "index": 820,
+    "source": "The backup folder is missing",
+    "translation": "备份文件夹缺失"
+  },
+  {
+    "index": 821,
+    "source": "Cannot inspect the backup manifest (errno %d)",
+    "translation": "无法检查备份清单（errno %d）"
+  },
+  {
+    "index": 822,
+    "source": "The backup manifest is not a regular file",
+    "translation": "备份清单不是普通文件"
+  },
+  {
+    "index": 823,
+    "source": "The backup manifest is invalid",
+    "translation": "备份清单无效"
+  },
+  {
+    "index": 824,
+    "source": "The safety backup has no typed manifest",
+    "translation": "安全备份缺少类型化清单"
+  },
+  {
+    "index": 825,
+    "source": "The legacy backup cannot be read",
+    "translation": "无法读取旧版备份"
+  },
+  {
+    "index": 826,
+    "source": "The legacy backup contains an unexpected item: %@",
+    "translation": "旧版备份包含意外项目：%@"
+  },
+  {
+    "index": 827,
+    "source": "The backup manifest is not a dictionary",
+    "translation": "备份清单不是字典"
+  },
+  {
+    "index": 828,
+    "source": "The backup manifest is not marked complete",
+    "translation": "备份清单未标记为完整"
+  },
+  {
+    "index": 829,
+    "source": "The backup manifest format is unsupported",
+    "translation": "不支持此备份清单格式"
+  },
+  {
+    "index": 830,
+    "source": "The backup manifest belongs to another app",
+    "translation": "备份清单属于其他应用"
+  },
+  {
+    "index": 831,
+    "source": "The backup manifest has no valid creation timestamp",
+    "translation": "备份清单缺少有效创建时间"
+  },
+  {
+    "index": 832,
+    "source": "The backup manifest reason is malformed",
+    "translation": "备份清单的原因格式错误"
+  },
+  {
+    "index": 833,
+    "source": "The backup manifest sequence is malformed",
+    "translation": "备份清单的序号格式错误"
+  },
+  {
+    "index": 834,
+    "source": "The backup manifest parts are malformed",
+    "translation": "备份清单的部分列表格式错误"
+  },
+  {
+    "index": 835,
+    "source": "The backup manifest contains an invalid or duplicate part",
+    "translation": "备份清单包含无效或重复的部分"
+  },
+  {
+    "index": 836,
+    "source": "The backup manifest hashes are malformed",
+    "translation": "备份清单的哈希值格式错误"
+  },
+  {
+    "index": 837,
+    "source": "The backup manifest hashes do not match its parts",
+    "translation": "备份清单的哈希值与内容不符"
+  },
+  {
+    "index": 838,
+    "source": "The backup manifest has an invalid part hash",
+    "translation": "备份清单中的部分哈希值无效"
+  },
+  {
+    "index": 839,
+    "source": "The backup folder cannot be read",
+    "translation": "无法读取备份文件夹"
+  },
+  {
+    "index": 840,
+    "source": "The backup contains an unexpected item: %@",
+    "translation": "备份包含意外项目：%@"
+  },
+  {
+    "index": 841,
+    "source": "The backup part %@ is not a directory",
+    "translation": "备份部分 %@ 不是目录"
+  },
+  {
+    "index": 842,
+    "source": "The backup part %@ cannot be read: %@",
+    "translation": "无法读取备份部分 %@：%@"
+  },
+  {
+    "index": 843,
+    "source": "The backup manifest does not match the on-disk parts",
+    "translation": "备份清单与磁盘内容不符"
+  },
+  {
+    "index": 844,
+    "source": "The restore paths are not inside this app's backup folder",
+    "translation": "恢复路径不在此应用的备份文件夹内"
+  },
+  {
+    "index": 845,
+    "source": "Cannot remove the completed restore journal",
+    "translation": "无法删除已完成的恢复日志"
+  },
+  {
+    "index": 847,
+    "source": "An interrupted restore is still active. Recover or discard it before starting another restore",
+    "translation": "上次中断的恢复仍在进行。请先恢复或丢弃该操作"
+  },
+  {
+    "index": 848,
+    "source": "The existing restore recovery journal has an unknown state",
+    "translation": "现有恢复日志的状态未知"
+  },
+  {
+    "index": 849,
+    "source": "The backup has no hash for %@",
+    "translation": "备份缺少 %@ 的哈希值"
+  },
+  {
+    "index": 850,
+    "source": "The backup's %@ contents changed after it was created",
+    "translation": "备份创建后 %@ 的内容已改变"
+  },
+  {
+    "index": 852,
+    "source": "Could not restore %@",
+    "translation": "无法恢复 %@"
+  },
+  {
+    "index": 854,
+    "source": "Cache Cleaner",
+    "translation": "缓存清理"
+  },
+  {
+    "index": 855,
+    "source": "Stop",
+    "translation": "停止"
+  },
+  {
+    "index": 856,
+    "source": "Clean",
+    "translation": "清理"
+  },
+  {
+    "index": 857,
+    "source": "Select All",
+    "translation": "全选"
+  },
+  {
+    "index": 859,
+    "source": "Select None",
+    "translation": "全不选"
+  },
+  {
+    "index": 861,
+    "source": "Select Large Caches (50 MB+)",
+    "translation": "选择大缓存（50 MB 以上）"
+  },
+  {
+    "index": 863,
+    "source": "Select",
+    "translation": "选择"
+  },
+  {
+    "index": 864,
+    "source": "Application",
+    "translation": "应用程序"
+  },
+  {
+    "index": 867,
+    "source": "Finding %@… %lld%%",
+    "translation": "正在查找 %@… %lld%%"
+  },
+  {
+    "index": 869,
+    "source": "Measuring %@ %lu of %lu…",
+    "translation": "正在测量 %@ %lu / %lu…"
+  },
+  {
+    "index": 871,
+    "source": "refused access",
+    "translation": "拒绝访问"
+  },
+  {
+    "index": 872,
+    "source": "failed the path safety check",
+    "translation": "路径安全检查未通过"
+  },
+  {
+    "index": 873,
+    "source": "Crash Logs",
+    "translation": "崩溃日志"
+  },
+  {
+    "index": 874,
+    "source": "%lu container enumeration%@ failed",
+    "translation": "%lu 个容器枚举%@失败"
+  },
+  {
+    "index": 876,
+    "source": "%lu container%@ had limited access",
+    "translation": "%lu 个容器%@的访问受限"
+  },
+  {
+    "index": 877,
+    "source": "%lu cache tree measurement%@ was limited",
+    "translation": "%lu 个缓存目录树测量%@受限"
+  },
+  {
+    "index": 878,
+    "source": "%lu container%@ had no identifier or identity",
+    "translation": "%lu 个容器%@没有标识符或身份"
+  },
+  {
+    "index": 879,
+    "source": "limited rows are excluded; the remaining rows can still be cleaned",
+    "translation": "已排除受限项目；仍可清理其余项目"
+  },
+  {
+    "index": 880,
+    "source": "Scan incomplete: %@. See Log.",
+    "translation": "扫描不完整：%@。请查看日志。"
+  },
+  {
+    "index": 882,
+    "source": "No %@ container%@ found.",
+    "translation": "未找到 %@ 容器%@。"
+  },
+  {
+    "index": 883,
+    "source": " or ",
+    "translation": " 或 "
+  },
+  {
+    "index": 885,
+    "source": "%lu apps and extensions",
+    "translation": "%lu 个应用及扩展"
+  },
+  {
+    "index": 887,
+    "source": " Close running apps first.",
+    "translation": " 请先关闭运行中的应用。"
+  },
+  {
+    "index": 889,
+    "source": "Cleaning",
+    "translation": "正在清理"
+  },
+  {
+    "index": 890,
+    "source": "Scanning",
+    "translation": "正在扫描"
+  },
+  {
+    "index": 891,
+    "source": "Reclaimable",
+    "translation": "可释放空间"
+  },
+  {
+    "index": 893,
+    "source": "%@ selected in %lu item%@",
+    "translation": "已选择 %@，共 %lu 个项目%@"
+  },
+  {
+    "index": 895,
+    "source": "Crash Logs · osanalytics",
+    "translation": "崩溃日志 · osanalytics"
+  },
+  {
+    "index": 896,
+    "source": "Crash Logs · access limited",
+    "translation": "崩溃日志 · 访问受限"
+  },
+  {
+    "index": 897,
+    "source": "cache %@ · temp %@%@",
+    "translation": "缓存 %@ · 临时文件 %@%@"
+  },
+  {
+    "index": 898,
+    "source": " · access limited",
+    "translation": " · 访问受限"
+  },
+  {
+    "index": 901,
+    "source": "Not cleanable",
+    "translation": "无法清理"
+  },
+  {
+    "index": 902,
+    "source": "This row has incomplete access or identity information. Scan again while the app is closed, or use its file browser entry to inspect it.",
+    "translation": "此项目的访问或身份信息不完整。请关闭应用后重新扫描，或从文件浏览器中检查。"
+  },
+  {
+    "index": 903,
+    "source": "Show Crash Logs in File Browser",
+    "translation": "在文件浏览器中显示崩溃日志"
+  },
+  {
+    "index": 905,
+    "source": "Show Caches in File Browser",
+    "translation": "在文件浏览器中显示缓存"
+  },
+  {
+    "index": 906,
+    "source": " · Caches",
+    "translation": " · 缓存"
+  },
+  {
+    "index": 907,
+    "source": "Show tmp in File Browser",
+    "translation": "在文件浏览器中显示 tmp"
+  },
+  {
+    "index": 909,
+    "source": "Show App Data in File Browser",
+    "translation": "在文件浏览器中显示应用数据"
+  },
+  {
+    "index": 911,
+    "source": "Stopping after the current item…",
+    "translation": "当前项目完成后停止…"
+  },
+  {
+    "index": 912,
+    "source": "%@, about %@? This cannot be undone. Close the selected apps first; you can stop between items.",
+    "translation": "%@，约 %@？此操作无法撤销。请先关闭所选应用；可在项目之间停止。"
+  },
+  {
+    "index": 913,
+    "source": "Clean caches?",
+    "translation": "清理缓存？"
+  },
+  {
+    "index": 914,
+    "source": "Cleaning…",
+    "translation": "正在清理…"
+  },
+  {
+    "index": 915,
+    "source": "identity changed",
+    "translation": "身份已改变"
+  },
+  {
+    "index": 917,
+    "source": "identity validation failed",
+    "translation": "身份验证失败"
+  },
+  {
+    "index": 918,
+    "source": "Clean cancelled: %@. Scan again before retrying.",
+    "translation": "清理已取消：%@。重试前请重新扫描。"
+  },
+  {
+    "index": 919,
+    "source": "Cleaning %lu of %lu: %@",
+    "translation": "正在清理 %lu / %lu：%@"
+  },
+  {
+    "index": 922,
+    "source": "Stopped. Freed %@.%@",
+    "translation": "已停止。释放了 %@。%@"
+  },
+  {
+    "index": 923,
+    "source": " Some items could not be removed (see Log).",
+    "translation": " 部分项目无法删除（请查看日志）。"
+  },
+  {
+    "index": 924,
+    "source": "Clean stopped: %@. Scan again before retrying.",
+    "translation": "清理已停止：%@。重试前请重新扫描。"
+  },
+  {
+    "index": 925,
+    "source": "Freed %@.%@",
+    "translation": "释放了 %@。%@"
+  },
+  {
+    "index": 927,
+    "source": "Clears each selected app's Library/Caches and tmp, and deletes selected Crash Logs. Apps rebuild their caches as you use them; some keep offline content (music, maps, downloads) there and will download it again. No backup is kept.",
+    "translation": "清除所选应用的 Library/Caches 和 tmp，并删除所选崩溃日志。应用会重新生成缓存；其中可能包含音乐、地图、下载等离线内容，之后需要重新下载。不保留备份。"
+  },
+  {
+    "index": 928,
+    "source": "Clears each selected app's Library/Caches and tmp. Apps rebuild their caches as you use them; some keep offline content (music, maps, downloads) there and will download it again. No backup is kept.",
+    "translation": "清除所选应用的 Library/Caches 和 tmp。应用会重新生成缓存；其中可能包含音乐、地图、下载等离线内容，之后需要重新下载。不保留备份。"
+  },
+  {
+    "index": 929,
+    "source": "Deletes selected Crash Logs. This cannot be undone. No backup is kept.",
+    "translation": "删除所选崩溃日志。此操作无法撤销，不保留备份。"
+  },
+  {
+    "index": 930,
+    "source": "Select app caches or Crash Logs to see the deletion scope. No backup is kept.",
+    "translation": "选择应用缓存或崩溃日志以查看删除范围。不保留备份。"
+  },
+  {
+    "index": 931,
+    "source": "Delete Library/Caches and tmp for %lu app%@, plus Crash Logs",
+    "translation": "删除 %lu 个应用%@的 Library/Caches、tmp 以及崩溃日志"
+  },
+  {
+    "index": 932,
+    "source": "Delete Library/Caches and tmp for %lu app%@",
+    "translation": "删除 %lu 个应用%@的 Library/Caches 和 tmp"
+  },
+  {
+    "index": 933,
+    "source": "Delete Crash Logs",
+    "translation": "删除崩溃日志"
+  },
+  {
+    "index": 934,
+    "source": "Delete the selected cache targets",
+    "translation": "删除所选缓存项目"
+  },
+  {
+    "index": 935,
+    "source": "the scan had limited access",
+    "translation": "扫描访问受限"
+  },
+  {
+    "index": 936,
+    "source": "the crash-log target is not the expected canonical directory",
+    "translation": "崩溃日志目标不是预期的规范目录"
+  },
+  {
+    "index": 937,
+    "source": "the scanned cache targets are incomplete",
+    "translation": "扫描的缓存目标不完整"
+  },
+  {
+    "index": 938,
+    "source": "the app container identity or ancestry is unavailable",
+    "translation": "应用容器身份或父路径不可用"
+  },
+  {
+    "index": 939,
+    "source": "%@ changed after the scan",
+    "translation": "扫描后 %@ 已改变"
+  },
+  {
+    "index": 940,
+    "source": "%@ no longer has the scanned container identity",
+    "translation": "%@ 的容器身份与扫描时不符"
+  },
+  {
+    "index": 941,
+    "source": "%@ has unsafe path ancestry",
+    "translation": "%@ 的父路径不安全"
+  },
+  {
+    "index": 942,
+    "source": "%@ appeared after the scan",
+    "translation": "%@ 在扫描后才出现"
+  },
+  {
+    "index": 943,
+    "source": "Loading…",
+    "translation": "正在加载…"
+  },
+  {
+    "index": 944,
+    "source": "The file changed while it was being read. Open it again.",
+    "translation": "读取时文件已改变。请重新打开。"
+  },
+  {
+    "index": 945,
+    "source": "Not a property list: %@",
+    "translation": "不是属性列表：%@"
+  },
+  {
+    "index": 946,
+    "source": "Cannot read this file: %@",
+    "translation": "无法读取此文件：%@"
+  },
+  {
+    "index": 947,
+    "source": "Save",
+    "translation": "保存"
+  },
+  {
+    "index": 948,
+    "source": "Done Reordering",
+    "translation": "完成排序"
+  },
+  {
+    "index": 949,
+    "source": "Reorder Items",
+    "translation": "调整项目顺序"
+  },
+  {
+    "index": 951,
+    "source": "Open as XML Text",
+    "translation": "以 XML 文本打开"
+  },
+  {
+    "index": 953,
+    "source": "Open in Hex Viewer",
+    "translation": "在十六进制查看器中打开"
+  },
+  {
+    "index": 956,
+    "source": "Save in progress",
+    "translation": "正在保存"
+  },
+  {
+    "index": 957,
+    "source": "Wait for the current save to finish before leaving or making more changes.",
+    "translation": "离开或继续修改前，请等待当前保存完成。"
+  },
+  {
+    "index": 958,
+    "source": "Discard changes?",
+    "translation": "放弃更改？"
+  },
+  {
+    "index": 959,
+    "source": "Your edits to this property list have not been saved.",
+    "translation": "对此属性列表的编辑尚未保存。"
+  },
+  {
+    "index": 960,
+    "source": "Keep Editing",
+    "translation": "继续编辑"
+  },
+  {
+    "index": 961,
+    "source": "Discard",
+    "translation": "放弃"
+  },
+  {
+    "index": 962,
+    "source": "Read-only format",
+    "translation": "只读格式"
+  },
+  {
+    "index": 963,
+    "source": "This property list uses an OpenStep/unknown format that cannot be saved by the editor. Use Open as XML Text and choose a supported format explicitly.",
+    "translation": "此属性列表采用 OpenStep 或未知格式，编辑器无法保存。请以 XML 文本打开并明确选择支持的格式。"
+  },
+  {
+    "index": 964,
+    "source": "Cannot save safely",
+    "translation": "无法安全保存"
+  },
+  {
+    "index": 965,
+    "source": "The current file version is unavailable. Reopen the file before saving again.",
+    "translation": "当前文件版本不可用。请重新打开后再保存。"
+  },
+  {
+    "index": 966,
+    "source": "Save changes?",
+    "translation": "保存更改？"
+  },
+  {
+    "index": 967,
+    "source": "%@ is overwritten in place (%@ format). The current version is backed up first.",
+    "translation": "将原位覆盖 %@（%@ 格式）。会先备份当前版本。"
+  },
+  {
+    "index": 968,
+    "source": "The edited property list contains an unsupported value.",
+    "translation": "编辑后的属性列表含有不支持的值。"
+  },
+  {
+    "index": 969,
+    "source": "The edited property list is not valid.",
+    "translation": "编辑后的属性列表无效。"
+  },
+  {
+    "index": 970,
+    "source": "The serialized property list is too large (maximum %lu MiB).",
+    "translation": "序列化的属性列表过大（最大 %lu MiB）。"
+  },
+  {
+    "index": 971,
+    "source": "The serialized property list could not be validated.",
+    "translation": "无法验证序列化的属性列表。"
+  },
+  {
+    "index": 972,
+    "source": "Save failed",
+    "translation": "保存失败"
+  },
+  {
+    "index": 973,
+    "source": "Unknown error",
+    "translation": "未知错误"
+  },
+  {
+    "index": 974,
+    "source": "read only",
+    "translation": "只读"
+  },
+  {
+    "index": 975,
+    "source": "read only · writing is not supported",
+    "translation": "只读 · 不支持写入"
+  },
+  {
+    "index": 976,
+    "source": "%@ property list · %@",
+    "translation": "%@ 属性列表 · %@"
+  },
+  {
+    "index": 977,
+    "source": "%@ property list. Tap a value to edit it, swipe to delete or rename, + to add.",
+    "translation": "%@ 属性列表。点按值进行编辑，滑动可删除或重命名，点按 + 添加。"
+  },
+  {
+    "index": 979,
+    "source": "Item %ld",
+    "translation": "项目 %ld"
+  },
+  {
+    "index": 981,
+    "source": "Reference value",
+    "translation": "引用值"
+  },
+  {
+    "index": 982,
+    "source": "Keyed-archive references are read-only in this editor. Edit the archived data through its owning key instead.",
+    "translation": "此编辑器中的键控归档引用为只读。请通过所属键编辑归档数据。"
+  },
+  {
+    "index": 983,
+    "source": "Too large to edit here",
+    "translation": "内容过大，无法在此编辑"
+  },
+  {
+    "index": 984,
+    "source": "Data over 4 KB can't be edited in this editor.",
+    "translation": "此编辑器无法编辑超过 4 KB 的数据。"
+  },
+  {
+    "index": 985,
+    "source": "Strings over 64 KB can't be edited in this editor.",
+    "translation": "此编辑器无法编辑超过 64 KB 的字符串。"
+  },
+  {
+    "index": 986,
+    "source": "Whole number",
+    "translation": "整数"
+  },
+  {
+    "index": 987,
+    "source": "Number",
+    "translation": "数字"
+  },
+  {
+    "index": 988,
+    "source": "ISO 8601, e.g. 2026-11-09T15:00:00Z",
+    "translation": "ISO 8601，例如 2026-11-09T15:00:00Z"
+  },
+  {
+    "index": 989,
+    "source": "Hex bytes, e.g. 01 ab ff",
+    "translation": "十六进制字节，例如 01 ab ff"
+  },
+  {
+    "index": 991,
+    "source": "Set",
+    "translation": "设置"
+  },
+  {
+    "index": 992,
+    "source": "Value too large",
+    "translation": "值过大"
+  },
+  {
+    "index": 993,
+    "source": "Scalar values are limited to 64 KB in this editor.",
+    "translation": "此编辑器的标量值上限为 64 KB。"
+  },
+  {
+    "index": 994,
+    "source": "Hex input is limited to 16 KB in this editor.",
+    "translation": "此编辑器的十六进制输入上限为 16 KB。"
+  },
+  {
+    "index": 995,
+    "source": "Data values are limited to 4 KB in this editor.",
+    "translation": "此编辑器的数据值上限为 4 KB。"
+  },
+  {
+    "index": 996,
+    "source": "Not a valid value",
+    "translation": "值无效"
+  },
+  {
+    "index": 997,
+    "source": "Expected: %@",
+    "translation": "预期：%@"
+  },
+  {
+    "index": 998,
+    "source": "Add",
+    "translation": "添加"
+  },
+  {
+    "index": 999,
+    "source": "Type of the new value",
+    "translation": "新值的类型"
+  },
+  {
+    "index": 1000,
+    "source": "New Item",
+    "translation": "新项目"
+  },
+  {
+    "index": 1001,
+    "source": "Key",
+    "translation": "键"
+  },
+  {
+    "index": 1002,
+    "source": "Key exists",
+    "translation": "键已存在"
+  },
+  {
+    "index": 1003,
+    "source": "There is already a key named \"%@\".",
+    "translation": "已存在名为“%@”的键。"
+  },
+  {
+    "index": 1004,
+    "source": "Delete",
+    "translation": "删除"
+  },
+  {
+    "index": 1005,
+    "source": "Rename",
+    "translation": "重命名"
+  },
+  {
+    "index": 1006,
+    "source": "Rename Key",
+    "translation": "重命名键"
+  },
+  {
+    "index": 1010,
+    "source": "Unknown",
+    "translation": "未知"
+  },
+  {
+    "index": 1011,
+    "source": "The property list contains a nil value.",
+    "translation": "属性列表包含空值。"
+  },
+  {
+    "index": 1012,
+    "source": "A dictionary key is not a string.",
+    "translation": "字典键不是字符串。"
+  },
+  {
+    "index": 1013,
+    "source": "The property list contains an unsupported value.",
+    "translation": "属性列表包含不支持的值。"
+  },
+  {
+    "index": 1017,
+    "source": "String",
+    "translation": "字符串"
+  },
+  {
+    "index": 1018,
+    "source": "Real",
+    "translation": "实数"
+  },
+  {
+    "index": 1019,
+    "source": "Boolean",
+    "translation": "布尔值"
+  },
+  {
+    "index": 1020,
+    "source": "Date",
+    "translation": "日期"
+  },
+  {
+    "index": 1021,
+    "source": "Data",
+    "translation": "数据"
+  },
+  {
+    "index": 1022,
+    "source": "Dictionary",
+    "translation": "字典"
+  },
+  {
+    "index": 1023,
+    "source": "Array",
+    "translation": "数组"
+  },
+  {
+    "index": 1024,
+    "source": "Reference",
+    "translation": "引用"
+  },
+  {
+    "index": 1027,
+    "source": "%lu bytes · %@",
+    "translation": "%lu 字节 · %@"
+  },
+  {
+    "index": 1028,
+    "source": "%lu keys",
+    "translation": "%lu 个键"
+  },
+  {
+    "index": 1029,
+    "source": "%lu items",
+    "translation": "%lu 个项目"
+  },
+  {
+    "index": 1030,
+    "source": "keyed-archive reference",
+    "translation": "键控归档引用"
+  },
+  {
+    "index": 1031,
+    "source": "(empty)",
+    "translation": "（空）"
+  },
+  {
+    "index": 1032,
+    "source": " … (%lu chars)",
+    "translation": " …（%lu 个字符）"
+  },
+  {
+    "index": 1035,
+    "source": "Cannot open this file.",
+    "translation": "无法打开此文件。"
+  },
+  {
+    "index": 1037,
+    "source": "%@ · %llu bytes%@%@",
+    "translation": "%@ · %llu 字节%@%@"
+  },
+  {
+    "index": 1038,
+    "source": " · %lu changed",
+    "translation": " · 已更改 %lu 处"
+  },
+  {
+    "index": 1039,
+    "source": " · Saving…",
+    "translation": " · 正在保存…"
+  },
+  {
+    "index": 1040,
+    "source": "Discard Changes",
+    "translation": "放弃更改"
+  },
+  {
+    "index": 1042,
+    "source": "Go to Offset…",
+    "translation": "跳转到偏移量…"
+  },
+  {
+    "index": 1044,
+    "source": "Find Hex Bytes…",
+    "translation": "查找十六进制字节…"
+  },
+  {
+    "index": 1045,
+    "source": "Find Text…",
+    "translation": "查找文本…"
+  },
+  {
+    "index": 1047,
+    "source": "Only the owner may read this file.",
+    "translation": "只有所有者才能读取此文件。"
+  },
+  {
+    "index": 1048,
+    "source": "Read failed: %@",
+    "translation": "读取失败：%@"
+  },
+  {
+    "index": 1055,
+    "source": "Bytes at 0x%llx",
+    "translation": "位于 0x%llx 的字节"
+  },
+  {
+    "index": 1056,
+    "source": "Overwrite these %lu bytes (hex). The file size stays the same.",
+    "translation": "覆盖这 %lu 个字节（十六进制）。文件大小保持不变。"
+  },
+  {
+    "index": 1057,
+    "source": "Not changed",
+    "translation": "未更改"
+  },
+  {
+    "index": 1058,
+    "source": "Enter exactly %lu bytes in hex.",
+    "translation": "请准确输入 %lu 个十六进制字节。"
+  },
+  {
+    "index": 1059,
+    "source": "Wait for the save to finish before leaving or changing these edits.",
+    "translation": "离开或修改编辑内容前，请等待保存完成。"
+  },
+  {
+    "index": 1060,
+    "source": "Save unavailable",
+    "translation": "无法保存"
+  },
+  {
+    "index": 1061,
+    "source": "The file version could not be verified. Close and reopen it before saving.",
+    "translation": "无法验证文件版本。请关闭并重新打开后再保存。"
+  },
+  {
+    "index": 1062,
+    "source": "%lu bytes in %@ are overwritten in place. The current file is backed up first.",
+    "translation": "将原位覆盖 %lu 个字节（%@）。会先备份当前文件。"
+  },
+  {
+    "index": 1063,
+    "source": "Your byte changes have not been saved.",
+    "translation": "字节更改尚未保存。"
+  },
+  {
+    "index": 1064,
+    "source": "Go to Offset",
+    "translation": "跳转到偏移量"
+  },
+  {
+    "index": 1065,
+    "source": "Hex (0x1a2b) or decimal",
+    "translation": "十六进制（0x1a2b）或十进制"
+  },
+  {
+    "index": 1067,
+    "source": "Go",
+    "translation": "跳转"
+  },
+  {
+    "index": 1068,
+    "source": "Invalid offset",
+    "translation": "偏移量无效"
+  },
+  {
+    "index": 1069,
+    "source": "Enter a complete non-negative decimal value or a 0x-prefixed hexadecimal value.",
+    "translation": "请输入完整的非负十进制数，或以 0x 开头的十六进制数。"
+  },
+  {
+    "index": 1070,
+    "source": "Offset unavailable",
+    "translation": "偏移量不可用"
+  },
+  {
+    "index": 1071,
+    "source": "The file is empty or its size is still loading.",
+    "translation": "文件为空或仍在加载大小。"
+  },
+  {
+    "index": 1072,
+    "source": "Offset out of range",
+    "translation": "偏移量超出范围"
+  },
+  {
+    "index": 1073,
+    "source": "Enter an offset from 0x0 through 0x%llx.",
+    "translation": "请输入 0x0 至 0x%llx 之间的偏移量。"
+  },
+  {
+    "index": 1074,
+    "source": "Find Hex Bytes",
+    "translation": "查找十六进制字节"
+  },
+  {
+    "index": 1075,
+    "source": "Find Text",
+    "translation": "查找文本"
+  },
+  {
+    "index": 1076,
+    "source": "Searches the saved file forward from the top of the screen.",
+    "translation": "从屏幕顶部位置开始向后搜索已保存的文件。"
+  },
+  {
+    "index": 1079,
+    "source": "Find",
+    "translation": "查找"
+  },
+  {
+    "index": 1080,
+    "source": "Search too large",
+    "translation": "搜索内容过大"
+  },
+  {
+    "index": 1081,
+    "source": "Use at most 1 MiB of UTF-8 search input.",
+    "translation": "UTF-8 搜索输入最多为 1 MiB。"
+  },
+  {
+    "index": 1082,
+    "source": "Nothing to find",
+    "translation": "没有可查找的内容"
+  },
+  {
+    "index": 1083,
+    "source": "Enter hex bytes, e.g. de ad be ef.",
+    "translation": "请输入十六进制字节，例如 de ad be ef。"
+  },
+  {
+    "index": 1084,
+    "source": "Enter some text.",
+    "translation": "请输入文本。"
+  },
+  {
+    "index": 1085,
+    "source": "Searching…",
+    "translation": "正在搜索…"
+  },
+  {
+    "index": 1086,
+    "source": "No match after offset 0x%llx.",
+    "translation": "偏移量 0x%llx 之后没有匹配项。"
+  },
+  {
+    "index": 1089,
+    "source": "Open As",
+    "translation": "打开方式"
+  },
+  {
+    "index": 1090,
+    "source": "Plist Editor",
+    "translation": "属性列表编辑器"
+  },
+  {
+    "index": 1092,
+    "source": "Hex Viewer",
+    "translation": "十六进制查看器"
+  },
+  {
+    "index": 1093,
+    "source": "Could not establish a stable file version. Open it again.",
+    "translation": "无法确定稳定的文件版本。请重新打开。"
+  },
+  {
+    "index": 1094,
+    "source": "Cannot read this file.\n\n%@",
+    "translation": "无法读取此文件。\n\n%@"
+  },
+  {
+    "index": 1096,
+    "source": "%@ · read only",
+    "translation": "%@ · 只读"
+  },
+  {
+    "index": 1098,
+    "source": "Edit",
+    "translation": "编辑"
+  },
+  {
+    "index": 1099,
+    "source": "Your text changes have not been saved.",
+    "translation": "文本更改尚未保存。"
+  },
+  {
+    "index": 1100,
+    "source": "Cannot save",
+    "translation": "无法保存"
+  },
+  {
+    "index": 1101,
+    "source": "The file has no verified version snapshot. Reopen it before saving.",
+    "translation": "文件缺少已验证的版本快照。请重新打开后再保存。"
+  },
+  {
+    "index": 1102,
+    "source": "Not a valid property list",
+    "translation": "属性列表无效"
+  },
+  {
+    "index": 1103,
+    "source": "Check the XML.",
+    "translation": "请检查 XML。"
+  },
+  {
+    "index": 1104,
+    "source": "Cannot encode",
+    "translation": "无法编码"
+  },
+  {
+    "index": 1105,
+    "source": "The text could not be encoded as UTF-8.",
+    "translation": "文本无法编码为 UTF-8。"
+  },
+  {
+    "index": 1106,
+    "source": "%@ will be overwritten in place. The current version is backed up to Backups first.",
+    "translation": "将原位覆盖 %@。当前版本会先备份到 Backups。"
+  },
+  {
+    "index": 1111,
+    "source": "New Folder",
+    "translation": "新建文件夹"
+  },
+  {
+    "index": 1113,
+    "source": "Import File",
+    "translation": "导入文件"
+  },
+  {
+    "index": 1115,
+    "source": "Copy Path",
+    "translation": "复制路径"
+  },
+  {
+    "index": 1117,
+    "source": "Search names and bundle IDs",
+    "translation": "搜索名称和包标识符"
+  },
+  {
+    "index": 1118,
+    "source": "Search this folder",
+    "translation": "搜索此文件夹"
+  },
+  {
+    "index": 1120,
+    "source": "Path copied",
+    "translation": "路径已复制"
+  },
+  {
+    "index": 1121,
+    "source": "Nothing to select",
+    "translation": "没有可选项目"
+  },
+  {
+    "index": 1122,
+    "source": "Only complete backup folders can be selected here.",
+    "translation": "此处只能选择完整的备份文件夹。"
+  },
+  {
+    "index": 1123,
+    "source": "Done",
+    "translation": "完成"
+  },
+  {
+    "index": 1124,
+    "source": "Select Backups",
+    "translation": "选择备份"
+  },
+  {
+    "index": 1125,
+    "source": "This permanently removes %lu complete backup%@ and everything inside them. It cannot be undone.",
+    "translation": "将永久删除 %lu 个完整备份%@及其全部内容。此操作无法撤销。"
+  },
+  {
+    "index": 1126,
+    "source": "Delete backups?",
+    "translation": "删除备份？"
+  },
+  {
+    "index": 1127,
+    "source": "Could not remove a backup.",
+    "translation": "无法删除备份。"
+  },
+  {
+    "index": 1128,
+    "source": "%@ Some selected backups may still exist.",
+    "translation": "%@ 部分所选备份可能仍然存在。"
+  },
+  {
+    "index": 1129,
+    "source": "Cannot delete backups",
+    "translation": "无法删除备份"
+  },
+  {
+    "index": 1134,
+    "source": "Scanning inodes…",
+    "translation": "正在扫描 inode…"
+  },
+  {
+    "index": 1135,
+    "source": " · about %.0f min left",
+    "translation": " · 约剩 %.0f 分钟"
+  },
+  {
+    "index": 1136,
+    "source": " · less than 2 min left",
+    "translation": " · 剩余不足 2 分钟"
+  },
+  {
+    "index": 1137,
+    "source": "Scanning inodes… %lld%% · %lu found%@",
+    "translation": "正在扫描 inode… %lld%% · 已找到 %lu 个%@"
+  },
+  {
+    "index": 1138,
+    "source": "Reading containers… %lu of %lu",
+    "translation": "正在读取容器… %lu / %lu"
+  },
+  {
+    "index": 1139,
+    "source": "(no label)",
+    "translation": "（无标签）"
+  },
+  {
+    "index": 1140,
+    "source": "NO TOKEN",
+    "translation": "无令牌"
+  },
+  {
+    "index": 1143,
+    "source": "File Backups",
+    "translation": "文件备份"
+  },
+  {
+    "index": 1144,
+    "source": "App Backups",
+    "translation": "应用备份"
+  },
+  {
+    "index": 1145,
+    "source": "Cannot list this folder. Container enumeration failed; see Log.",
+    "translation": "无法列出此文件夹。容器枚举失败，请查看日志。"
+  },
+  {
+    "index": 1146,
+    "source": "Cannot open this folder",
+    "translation": "无法打开此文件夹"
+  },
+  {
+    "index": 1149,
+    "source": "%@\n\nThis method only opens containers. Use App Data, App Groups, Extension Data, Internal Daemons or System Groups for the folders inside /private/var.",
+    "translation": "%@\n\n此方法只能打开容器。请使用“应用数据”“应用组”“扩展数据”“内部守护进程”或“系统组”访问 /private/var 内的文件夹。"
+  },
+  {
+    "index": 1150,
+    "source": "symlink · ",
+    "translation": "符号链接 · "
+  },
+  {
+    "index": 1153,
+    "source": "Symbolic link",
+    "translation": "符号链接"
+  },
+  {
+    "index": 1154,
+    "source": "WQ Files does not follow symbolic links for viewing, sharing or editing. Use Copy Path to open the target explicitly.",
+    "translation": "WQ Files 不跟随符号链接进行查看、分享或编辑。请复制路径后明确打开目标。"
+  },
+  {
+    "index": 1155,
+    "source": "Cannot open this item",
+    "translation": "无法打开此项目"
+  },
+  {
+    "index": 1156,
+    "source": "Symbolic links are not followed for viewing, sharing or editing.",
+    "translation": "查看、分享和编辑时不跟随符号链接。"
+  },
+  {
+    "index": 1157,
+    "source": "Only regular files can be viewed.",
+    "translation": "只能查看普通文件。"
+  },
+  {
+    "index": 1159,
+    "source": "Share as ZIP (AirDrop…)",
+    "translation": "分享为 ZIP（隔空投送…）"
+  },
+  {
+    "index": 1161,
+    "source": "Share",
+    "translation": "分享"
+  },
+  {
+    "index": 1162,
+    "source": "Restore to Original Location",
+    "translation": "恢复到原位置"
+  },
+  {
+    "index": 1164,
+    "source": "Text / Image",
+    "translation": "文本 / 图像"
+  },
+  {
+    "index": 1165,
+    "source": "Copy Identifier",
+    "translation": "复制标识符"
+  },
+  {
+    "index": 1167,
+    "source": "Delete Backup…",
+    "translation": "删除备份…"
+  },
+  {
+    "index": 1169,
+    "source": "Name",
+    "translation": "名称"
+  },
+  {
+    "index": 1170,
+    "source": "Create",
+    "translation": "创建"
+  },
+  {
+    "index": 1171,
+    "source": "Cannot create folder",
+    "translation": "无法创建文件夹"
+  },
+  {
+    "index": 1172,
+    "source": "Cannot rename",
+    "translation": "无法重命名"
+  },
+  {
+    "index": 1173,
+    "source": "%@\n\nThis removes every backup for this app. It cannot be undone.",
+    "translation": "%@\n\n将删除此应用的全部备份。此操作无法撤销。"
+  },
+  {
+    "index": 1174,
+    "source": "%@\n\nThis removes the selected backup. It cannot be undone.",
+    "translation": "%@\n\n将删除所选备份。此操作无法撤销。"
+  },
+  {
+    "index": 1175,
+    "source": "Delete backup?",
+    "translation": "删除备份？"
+  },
+  {
+    "index": 1176,
+    "source": "Cannot delete backup",
+    "translation": "无法删除备份"
+  },
+  {
+    "index": 1177,
+    "source": "%@\n\nRemoves the symbolic link only; its target is not changed.",
+    "translation": "%@\n\n仅删除符号链接；不改变目标。"
+  },
+  {
+    "index": 1178,
+    "source": "%@\n\nOnly empty folders can be deleted.",
+    "translation": "%@\n\n只能删除空文件夹。"
+  },
+  {
+    "index": 1179,
+    "source": "%@\n\nA copy is kept in Backups.",
+    "translation": "%@\n\n副本保存在 Backups 中。"
+  },
+  {
+    "index": 1180,
+    "source": "%@\n\nThis special file is removed; no backup is kept.",
+    "translation": "%@\n\n将删除此特殊文件；不保留备份。"
+  },
+  {
+    "index": 1181,
+    "source": "Delete \"%@\"?",
+    "translation": "删除“%@”？"
+  },
+  {
+    "index": 1182,
+    "source": "Cannot delete",
+    "translation": "无法删除"
+  },
+  {
+    "index": 1183,
+    "source": "Write this backup back to\n%@?\n\nIf a file is there now, it is backed up first.",
+    "translation": "将此备份写回\n%@？\n\n若该位置已有文件，会先备份。"
+  },
+  {
+    "index": 1184,
+    "source": "Import failed",
+    "translation": "导入失败"
+  },
+  {
+    "index": 1185,
+    "source": "Replace existing file?",
+    "translation": "替换现有文件？"
+  },
+  {
+    "index": 1186,
+    "source": "%@ already exists. It is backed up before being replaced.",
+    "translation": "%@ 已存在。替换前会先备份。"
+  },
+  {
+    "index": 1187,
+    "source": "Replace",
+    "translation": "替换"
+  },
+  {
+    "index": 1189,
+    "source": "System Groups",
+    "translation": "系统组"
+  },
+  {
+    "index": 1212,
+    "source": "This folder cannot be listed on this iOS version. Known names that exist are shown; tap + to try another name.",
+    "translation": "此 iOS 版本无法列出该文件夹。此处显示存在的已知名称；点按 + 可尝试其他名称。"
+  },
+  {
+    "index": 1215,
+    "source": "Open System Group",
+    "translation": "打开系统组"
+  },
+  {
+    "index": 1217,
+    "source": "Open",
+    "translation": "打开"
+  },
+  {
+    "index": 1218,
+    "source": "Log",
+    "translation": "日志"
+  },
+  {
+    "index": 1224,
+    "source": "App Data",
+    "translation": "应用数据"
+  },
+  {
+    "index": 1226,
+    "source": "App Groups",
+    "translation": "应用组"
+  },
+  {
+    "index": 1228,
+    "source": "Extension Data",
+    "translation": "扩展数据"
+  },
+  {
+    "index": 1230,
+    "source": "Internal Daemons",
+    "translation": "内部守护进程"
+  },
+  {
+    "index": 1232,
+    "source": "System Data",
+    "translation": "系统数据"
+  },
+  {
+    "index": 1235,
+    "source": "Restore recovery",
+    "translation": "恢复操作修复"
+  },
+  {
+    "index": 1236,
+    "source": "No App Group",
+    "translation": "无应用组"
+  },
+  {
+    "index": 1237,
+    "source": "This app needs an App Group to reach other folders. Re-sign it with a tool that keeps the App Group entitlement.",
+    "translation": "此应用需要应用组权限才能访问其他文件夹。请使用能保留 App Group 权限的工具重新签名。"
+  },
+  {
+    "index": 1247,
+    "source": "Containers",
+    "translation": "容器"
+  },
+  {
+    "index": 1248,
+    "source": "Tools",
+    "translation": "工具"
+  },
+  {
+    "index": 1249,
+    "source": "On iOS 26, System Data and System Groups can't be reached (worse_query covers them on iOS 27 only), and Internal Daemons need a scan of every file id: the first one can take most of an hour on a well-used device, later ones only check new files.",
+    "translation": "iOS 26 无法访问系统数据和系统组（worse_query 仅在 iOS 27 支持），内部守护进程需要扫描全部文件 ID：使用较久的设备首次可能耗时接近一小时，后续只检查新增文件。"
+  },
+  {
+    "index": 1250,
+    "source": "Overwritten and deleted files are copied to Backups first (also visible in the Files app). Long-press a backup to restore it.",
+    "translation": "覆盖和删除文件前会先复制到 Backups（也可在“文件”中查看）。长按备份即可恢复。"
+  },
+  {
+    "index": 1254,
+    "source": "Go to Path…",
+    "translation": "前往路径…"
+  },
+  {
+    "index": 1257,
+    "source": "Go to Path",
+    "translation": "前往路径"
+  },
+  {
+    "index": 1258,
+    "source": "A folder or file path",
+    "translation": "文件夹或文件路径"
+  },
+  {
+    "index": 1260,
+    "source": "Default",
+    "translation": "默认"
+  },
+  {
+    "index": 1263,
+    "source": "\n… (only the beginning is shown)\n",
+    "translation": "\n…（仅显示开头部分）\n"
+  },
+  {
+    "index": 1264,
+    "source": "WQ Files does not follow symbolic links for viewing, sharing or editing.",
+    "translation": "WQ Files 不跟随符号链接进行查看、分享或编辑。"
+  }
+]
