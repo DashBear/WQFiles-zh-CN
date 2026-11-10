@@ -85,6 +85,7 @@ python localize.py "F:/download/WQFiles.ipa" -o "dist/WQFiles_zh-CN.ipa"
 
 ## 致谢与许可
 
-原应用作者：kolbicz（原包内署名，作者主页：https://github.com/kolbicz）。本项目与原作者无隶属关系。
+原应用作者：kolbicz（原包内署名，作者主页：https://github.com/kolbicz）。
+本项目与原作者无隶属关系。
 
 本项目新增的脚本与中文译文采用 MIT 许可。该许可不授予原始 WQ Files 应用、其二进制、图标或其他原始内容的权利。
